@@ -1,4 +1,4 @@
-## Hi there 👋
+## 집에 가고 싶어요.
 
 <!--
 **leeeeJiin/leeeeJiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
