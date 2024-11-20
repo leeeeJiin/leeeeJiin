@@ -7,7 +7,10 @@
 	
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin)
 <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href=(https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg)><img src="https://img.shields.io/badge/YoutubeMusic-FF0000?style=flat-square&logo=youtubemusic&logoColor=white&link=(https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg)"/></a>
+
+<a href=https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a>
+
+
 <a href="링크주소"><img src="https://img.shields.io/badge/텍스트-컬러코드?style=flat-square&logo=아이콘이름&logoColor=white&link=링크주소"/></a>
 
 
