@@ -12,7 +12,7 @@
 
 <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
-<a href=jiin0472@naver.comjiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-E4405F?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href=jiin0472@naver.comjiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 
 
