@@ -9,5 +9,5 @@
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin)
 
-[![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)](https://github.com/anuraghazra/github-readme-stats)
+[![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
 
