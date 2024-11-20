@@ -16,5 +16,3 @@
 
   </div>
 
-
-![image](https://github.com/user-attachments/assets/1b1e19a9-0b0f-418c-b29c-e516eaa5a70b)
