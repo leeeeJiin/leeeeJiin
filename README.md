@@ -3,14 +3,11 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleeeeJiin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img width="25%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> <img width="60%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
+<img width="26%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> <img width="60%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
 
 친구들과 노는 걸 좋아하는 뽀로로입니다. 
 
 유튜브 뮤직은 제가 좋아하는 세븐틴으로 바로 갈 수 있게 만들었어요.
-
-
-
 
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
  
