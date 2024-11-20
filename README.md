@@ -7,7 +7,8 @@
 ## 뽀글머리 예공인
 친구들과 노는 걸 좋아하는 뽀로로입니다.
 
-https://img.shields.io/badge/YouTube-FF0000
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
 
+[![Static Badge](https://img.shields.io/badge/YouTube-FF0000)](https://www.youtube.com/@2357LeeJiin)
 
 
