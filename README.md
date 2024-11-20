@@ -12,6 +12,6 @@
   </div>
 
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
 </p>
-출처: https://hongssup.tistory.com/243 [Outgoing Introvert:티스토리]
+
