@@ -10,3 +10,8 @@
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
 
   </div>
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
+출처: https://hongssup.tistory.com/243 [Outgoing Introvert:티스토리]
