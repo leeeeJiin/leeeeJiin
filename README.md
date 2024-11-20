@@ -4,11 +4,10 @@
 	
   </div>
 
-## 집에 가고 싶어요.
-저는 어찌하면 좋을까요?
+## 뽀글머리 예공인
+친구들과 노는 걸 좋아하는 뽀로로입니다.
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+[![Youtube Badge]([https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool](https://www.youtube.com/@2357LeeJiin))
+
+
+
