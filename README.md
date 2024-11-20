@@ -12,7 +12,7 @@
 
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
  
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin) <a href=https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a> <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href=jiin0472@naver.comjiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin) <a href=https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a> <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href=jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
   </div>
 
