@@ -13,7 +13,7 @@
   <img src="https://render.gitanimals.org/farms/leeeeJiin"/>
 </a>
 
-<img width="40%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
+<img width="38%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
 
 
 
