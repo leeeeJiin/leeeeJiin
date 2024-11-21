@@ -3,6 +3,8 @@
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleeeeJiin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+  </div>
+  
 아직 많이 미숙하지만, 성장하려고 노력하고 있습니다.
 
 |  **정보** | 중앙대학교  | 예술공학부  | 1학년  | 재학  |
@@ -25,5 +27,5 @@
  
    
 
-  </div>
+
 
