@@ -13,7 +13,8 @@
 
 
 
-<img width="30%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> <img width="40%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
+<img width="30%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
+<img width="40%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
 
 전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎
 
