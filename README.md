@@ -12,16 +12,14 @@
 
  **전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎**
 
+<img width="39.5%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/leeeeJiin"/>
 </a>
 
-<img width="39.5%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
-
-
 요즘엔 뮤지컬 '룰렛'에 빠졌습니다. 심수영(심수호)배우님 덕질하기 시작했는데, 같이 덕질합시다.🃏
 
-유튜브 뮤직은 제가 좋아하는 세븐틴으로 바로 갈 수 있게 만들었어요.
 
 <img width="70%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
 
