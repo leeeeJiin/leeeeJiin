@@ -8,9 +8,7 @@
 아직 많이 미숙하지만, 성장하려고 노력하고 있습니다.
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/leeeeJiin?pet-id=1" width="1000" height="120"/>
-</a>
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/leeeeJiin"/>
 </a>
@@ -35,7 +33,10 @@
 
 
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
- 
+
+ <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/leeeeJiin?pet-id=1" width="1000" height="120"/>
+</a>
    
 
 
