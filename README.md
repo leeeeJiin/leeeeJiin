@@ -10,6 +10,10 @@
 
 ㅡ 달러구트 꿈백화점2
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/leeeeJiin"/>
+</a>
+
   </div>
 
 ***
@@ -44,9 +48,7 @@ _(자격증이 있다거나 완벽하진 않지만, 그나마 다룰 줄 아는 
 
 <img width="39.5%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/leeeeJiin"/>
-</a>
+
 
 요즘엔 뮤지컬 '룰렛'에 빠졌습니다. 심수영(심수호)배우님 덕질하기 시작했는데, 같이 덕질합시다.🃏
 
