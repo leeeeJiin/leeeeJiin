@@ -39,6 +39,8 @@ _(자격증이 있다거나 완벽하진 않지만, 그나마 다룰 줄 아는 
 
  **친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎**
  -
+ 내향인 중에선 외향인, 계획적이지만 때론 그거에 얽매이지 않으려고 즉흥적으로 하는 경우도 많습니다. 
+ 특히 친구들과 놀 땐 전체적인 계획의 틀만 잡고, 그 안에선 즉흥적으로 하는 것이 그 예입니다.
 
 <img width="39.5%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
 
@@ -63,7 +65,7 @@ _(자격증이 있다거나 완벽하진 않지만, 그나마 다룰 줄 아는 
 |  **정보** | 중앙대학교  | 예술공학부  | 1학년(05년생)  | 재학  |
 |---|---|---|---|---|
 |   **전화번호**	|  KR) 010-2263-1834 	|   	|  **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 	|
-|  **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiin0472@gmail.com)](mailto:leejiin0472@gmail.com) 	|   	|   	|
+|  **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiin0472@gmail.com)](mailto:leejiin0472@gmail.com) 	|  **MBTI** 	|  INFJ 	|
 |   **유튜브 채널**	|   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin)	|   	|  **최애그룹** 	|  <a href="https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg?si=pK-ob4ykKTrCsz83"><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a> 	|
 
 
