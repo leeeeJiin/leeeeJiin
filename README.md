@@ -6,7 +6,15 @@
   </div>
   
 아직 많이 미숙하지만, 성장하려고 노력하고 있습니다.
-
+Data Scientist, Machine Learning Engineer, Engineering Manager
+I organize a group of developers who write blog posts - 글쓰는 개발자 모임, 글또
+PM을 위한 데이터 리터러시, 초보자를 위한 BigQuery(SQL) 입문(무료), BigQuery 활용편 강의를 인프런에 출시했어요.
+Google Cloud Champion Innovator(Data Analytics)
+Interest
+MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
+Google Cloud Platform(Especially, BigQuery)
+Operation Research
+Leadership, Mentoring, Writing, Presentation
 
 **전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎**
 
