@@ -22,7 +22,9 @@
 유튜브 뮤직은 제가 좋아하는 세븐틴으로 바로 갈 수 있게 만들었어요.
 
 <img width="70%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
+
 ***
+
 |  **정보** | 중앙대학교  | 예술공학부  | 1학년  | 재학  |
 |---|---|---|---|---|
 |   **전화번호**	|  KR) 010-2263-1834 	|   	|  **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 	|
