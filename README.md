@@ -72,7 +72,6 @@ _(자격증이 있다거나 완벽하진 않지만, 그나마 다룰 줄 아는 
 
 
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/leeeeJiin?pet-id=646135937820254654"
