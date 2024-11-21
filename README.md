@@ -2,7 +2,7 @@
 
 아직 많이 미숙하지만, 성장하려고 노력하고 있습니다.
 
-|   **정보**	|  중앙대학교 	|  예술공학부 	|  1학년 	|  재학중 	|
+
 |---	|---	|---	|---	|---	|
 |   **전화번호**	|  KR) 010-2263-1834 	|  - 	|  **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 	|
 |  **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|   	|   	|   	|
