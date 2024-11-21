@@ -8,12 +8,17 @@
 아직 많이 미숙하지만, 성장하려고 노력하고 있습니다.
 
 
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{username}"/>
+</a>
 
 
 
 <img width="30%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
+
 
 **전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎전 친구들과 노는 걸 좋아하는 뽀로로입니다. 🐧😎**
 <img width="40%" src="https://github.com/user-attachments/assets/2e46eb8a-97e6-4190-b86f-f4e6bdb83c9d"/>
