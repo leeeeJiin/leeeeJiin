@@ -4,7 +4,7 @@
 |   **학교**	|  중앙대학교 	|  예술공학부 	|  1학년 	|  재학중 	|
 |---	|---	|---	|---	|---	|
 |   **전화번호**	|  KR) 010-2263-1834 	|   	|   	|   	|
-|  **E-Mail 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|   	|   	|   	|
+|  **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 <div align=center>
 
