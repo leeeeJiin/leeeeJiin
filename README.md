@@ -14,7 +14,7 @@
 
 **이력**
 
-2024
+_2024_
 - 중학대학교 예술공학부 입학
 - 예술공학부 학생회 '윤슬' 홍보국원
 
@@ -35,7 +35,7 @@
 
 밑에 이미지는 지금 저의 현재 상황과 잘 맞는 이미지라 가지고 와봤습니다.
 
-<img width="70%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
+<img width="50%" src="https://github.com/user-attachments/assets/9131faf6-4681-4a94-97d0-0bee8c311464"/> 
 
 ***
 
