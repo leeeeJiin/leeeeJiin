@@ -70,8 +70,6 @@ _2024_
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FleeeeJiin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-  </div>
-
 |  **정보** | 중앙대학교  | 예술공학부  | 1학년(05년생)  | 재학  |
 |---|---|---|---|---|
 |  🎀 **MBTI** 	|  INFJ 	|   	|  🫧 **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 	|
@@ -87,6 +85,10 @@ _2024_
     height="150"
   />
 </a>
+
+  </div>
+
+
   
    
 
