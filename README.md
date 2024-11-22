@@ -36,7 +36,7 @@ _2024_
 
 _(자격증이 있다거나 완벽하진 않지만, 그나마 다룰 줄 아는 프로그램들을 적어보았습니다.)_
 - 클립스튜디오
-- 포토샵<img src="https://img.shields.io/badge/3776AB?style=flat-square&logo=Python&logoColor=white"/>/일러스트레이터 (배우는 중)
+- 포토샵<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=Python&logoColor=white"/>/일러스트레이터 (배우는 중)
 - 파이썬/C++ (배우는 중)
 
 #
