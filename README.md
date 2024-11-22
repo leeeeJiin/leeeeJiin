@@ -74,10 +74,8 @@ _2024_
 |  **정보** | 중앙대학교  | 예술공학부  | 1학년  | 재학  |
 |---|---|---|---|---|
 |    🥨 **이지인**	|  05년생 	|  Female 	|  🎀 **MBTI** 	|  INFJ 	|
-|  📨 **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiin0472@gmail.com)](mailto:leejiin0472@gmail.com) 	|  🫧 **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
-
-@jiin0472 	|
-|   🎞️ **유튜브 채널**	|   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin)	|   	|  🎧 **최애그룹** 	|  <a href="https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg?si=pK-ob4ykKTrCsz83"><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a> 세븐틴 	|
+|  📨 **E-Mail** 	|  <a href=mailto:jiin0472@naver.com><img src="https://img.shields.io/badge/Naver Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jiin0472@naver.com"/></a> 	|  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leejiin0472@gmail.com)](mailto:leejiin0472@gmail.com) 	|  🫧 **인스타** 	|  <a href=https://www.instagram.com/jiin0472/><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>  @jiin0472 	|
+|   🎞️ **유튜브 채널**	|   [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/@2357LeeJiin)	|   	|  🎧 **최애그룹** 	|  <a href="https://music.youtube.com/channel/UC0gpUnoyhu44aS3-NxYs7rg?si=pK-ob4ykKTrCsz83"><img src="https://img.shields.io/badge/Youtube Music-FF0000?style=flat-square&logo=YouTube Music&logoColor=white"/></a>  세븐틴 	|
 
 
 [![leeeeJiin's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeeeJiin)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/leeeeJiin/leeeeJiin/blob/main/README.md))
