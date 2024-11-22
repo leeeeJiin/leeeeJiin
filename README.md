@@ -81,7 +81,7 @@ _2024_
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/leeeeJiin?pet-id=646135937820254654"
-    width="300"
+    width="150"
     height="150"
   />
 </a>
